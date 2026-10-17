@@ -16,15 +16,15 @@ button {
     width: 200px;
     height: 200px;
     border-radius: 50%;
-    border: 8px solid #990000;
-    background-color: red;
+    border: 8px solid #be5805;
+    background-color: rgb(255, 123, 0);
     color: white;
     font-size: 24px;
     font-weight: bold;
     cursor: pointer;
-    box-shadow: 0 10px 0 #660000;
+    box-shadow: 0 10px 0 #662e00;
 }
 button:active {
     transform: translateY(8px);
-    box-shadow: 0 2px 0 #660000;
+    box-shadow: 0 2px 0 #a54302;
 }
